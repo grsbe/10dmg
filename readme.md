@@ -1,1 +1,1 @@
-A julia project to calculate damage distributions in warhammer
+A pythonproject to calculate damage distributions in warhammer
