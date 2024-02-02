@@ -1,1 +1,1 @@
-A pythonproject to calculate damage distributions in warhammer
+A javascript/pythonproject to calculate damage distributions in warhammer
